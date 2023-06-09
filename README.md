@@ -57,4 +57,4 @@ Hint
 
 To embed the Youtube Videos in a smaller size, replace the class name embed-responsive-16by9 with embed-responsive-1by1 in the Bootstrap Video Embed Code. You can find the reference here.
 
-SITE:dlgoapage.ccbp.tech
+SITE:https://dlgoapage.ccbp.tech/
